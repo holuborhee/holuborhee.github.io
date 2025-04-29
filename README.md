@@ -5,9 +5,9 @@ Hi there! I'm a **Full Stack Software Engineer** with 7+ years of experience bui
 ## 🚀 About Me
 
 - 💼 Currently working on market-ready products as a **Technical Lead** at **Adventlabs**, including:
-  - **Buzthrive** – Inventory and sales management platform tailored for local SMEs.
-  - **SME Suites** – Lightweight business tools for scheduling, finance, and operations.
-  - **Articean** – A skill marketplace empowering offline artisans.
+  - **[Buzthrive]()** – Inventory and sales management platform tailored for local SMEs.
+  - **[SME Suites]()** – Lightweight business tools for scheduling, finance, and operations.
+  - **[Articean]()** – A skill marketplace empowering offline artisans.
 
 - 🏗️ Led the **re-architecture of Bloverse** (2019–2021), transforming a monolithic app into a scalable microservices-based system using **Kafka**, **Docker**, and **Kubernetes**.
 
@@ -23,7 +23,7 @@ Hi there! I'm a **Full Stack Software Engineer** with 7+ years of experience bui
 `React` `Next.js` `Vue.js` `TailwindCSS` `Bootstrap` `Redux/Vuex` `WebSocket`
 
 **Backend**  
-`Node.js` `NestJS` `Express.js` `PostgreSQL` `MySQL` `MongoDB` `TypeORM` `Prisma`
+`Node.js` `NestJS` `Express.js` `PostgreSQL` `MySQL` `MongoDB` `TypeORM` `Prisma` `Ruby on Rails`
 
 **DevOps & Tools**  
 `Docker` `Kubernetes` `GitHub Actions` `Jenkins` `CI/CD Pipelines` `Terraform`
@@ -53,9 +53,10 @@ Hi there! I'm a **Full Stack Software Engineer** with 7+ years of experience bui
 I'm open to collaboration, freelance opportunities, or just a chat about software architecture and product engineering.
 
 - **Email**: daveholuborhee@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/johnoluboridavid/
-- **Portfolio Website**: https://holuborhee.github.io/
-- **Twitter**: @holuborhee
+- **LinkedIn**: [https://www.linkedin.com/in/johnoluboridavid/](https://www.linkedin.com/in/johnoluboridavid/)
+- **GitHub**: [https://github.com/holuborhee](https://github.com/holuborhee)
+- **Portfolio Website**: [https://holuborhee.github.io/](https://holuborhee.github.io/)
+- **Twitter**: [@holuborhee](https://x.com/holuborhee)
 
 ---
 
