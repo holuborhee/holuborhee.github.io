@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Welcome to My Developer Portfolio
 
-Hi there! I'm a **Full Stack Software Engineer** with 7+ years of experience building and scaling web applications from scratch, leading teams, and making impactful technical decisions. I specialize in **JavaScript/TypeScript**, **Node.js**, **React**, **NestJS**, and **Vue.js**, with deep expertise in **system architecture**, **product engineering**, and **API integrations**.
+Hi there! I'm a **Full Stack Software Engineer** with 9+ years of experience building and scaling web applications from scratch, leading teams, and making impactful technical decisions. I specialize in **JavaScript/TypeScript**, **Node.js**, **React**, **NestJS**, and **Vue.js**, with deep expertise in **system architecture**, **product engineering**, and **API integrations**.
 
 ## 🚀 About Me
 
