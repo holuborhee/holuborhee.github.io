@@ -1,65 +1,116 @@
-# 👨🏽‍💻 Welcome to My Developer Portfolio
+👨🏽‍💻 Welcome to My Developer Portfolio
+=========================================
 
-Hi there! I'm a **Full Stack Software Engineer** with 9+ years of experience building and scaling web applications from scratch, leading teams, and making impactful technical decisions. I specialize in **JavaScript/TypeScript**, **Node.js**, **React**, **NestJS**, and **Vue.js**, with deep expertise in **system architecture**, **product engineering**, and **API integrations**.
+Hi there! I'm **John Olubori David**, a **Senior Full Stack Software Engineer** and **Software Architect** with **9+ years of experience** building scalable systems, leading engineering teams, and architecting robust solutions across multiple industries and continents.
 
-## 🚀 About Me
+I’m a **JavaScript expert** and a product-first engineer, passionate about solving real problems with clean code and thoughtful design. My work spans across **JavaScript, TypeScript, Node.js, Next.js, NestJS, Ruby on Rails, Python, PHP/Laravel, SQL, Docker**, and more.
 
-- 💼 Currently working on market-ready products as a **Technical Lead** at **Adventlabs**, including:
-  - **[Buzthrive]()** – Inventory and sales management platform tailored for local SMEs.
-  - **[SME Suites]()** – Lightweight business tools for scheduling, finance, and operations.
-  - **[Articean]()** – A skill marketplace empowering offline artisans.
+🧑🏽‍💼 Executive Summary
+-------------------------
 
-- 🏗️ Led the **re-architecture of Bloverse** (2019–2021), transforming a monolithic app into a scalable microservices-based system using **Kafka**, **Docker**, and **Kubernetes**.
+*   🛠️ **Architected high-scale platforms** for startups and growing businesses, transforming monoliths into distributed systems.
+    
+*   🚀 **Led cross-functional teams** of engineers, designers, and product managers to deliver fast, iterative improvements.
+    
+*   💡 **Customer-centric mindset** with a strong emphasis on solving real-world problems with usable, elegant software.
+    
+*   🔁 **DevOps + CI/CD savvy**, ensuring clean, repeatable, and automated deployments with Docker, Jenkins, and GitHub Actions.
+    
+*   💾 **Database expert** with deep knowledge of RDBMS like PostgreSQL and MySQL, including ORM tools like Prisma, Knex, and TypeORM.
+    
 
-- 🧠 Strong believer in *“Show, don’t tell”*: I ship working software early and iterate fast. My product intuition is powered by user feedback and agile principles.
+🚀 Current Work: Adventlabs (Technical Lead)
+--------------------------------------------
 
-- 🌍 Remote-first engineer with 6+ years of successful remote collaboration across time zones.
+As the **Chief Architect & Technical Lead** at **Adventlabs**, I lead the development of three B2B and B2C products from idea to launch:
 
----
+*   **Buzthrive** – Inventory & sales management for local SMEs. I designed the core data models and backend using **NestJS + PostgreSQL**, with real-time updates and analytics.
+    
+*   **SME Suites** – Lightweight business productivity tools (finance, HR, ops). Built the authentication, user onboarding, and subscription flow.
+    
+*   **Articean** – A platform connecting offline artisans to clients. Led the end-to-end architecture and integrated **Flutterwave for payments**.
+    
 
-## 🧰 Tech Stack & Skills
+> I built these products with **customer empathy**, frequent iteration, and architecture that allows scale without bottlenecks.
 
-**Frontend**  
-`React` `Next.js` `Vue.js` `TailwindCSS` `Bootstrap` `Redux/Vuex` `WebSocket`
+🧱 Highlight: Bloverse (2019–2021)
+----------------------------------
 
-**Backend**  
-`Node.js` `NestJS` `Express.js` `PostgreSQL` `MySQL` `MongoDB` `TypeORM` `Prisma` `Ruby on Rails`
+At **Bloverse**, I redefined the entire engineering backbone:
 
-**DevOps & Tools**  
-`Docker` `Kubernetes` `GitHub Actions` `Jenkins` `CI/CD Pipelines` `Terraform`
+*   🎯 **Challenge**: Monolithic system that couldn’t scale with increasing user demands.
+    
+*   🔧 **Solution**: Migrated to **microservices** using **Docker, Kubernetes, and Kafka**.
+    
+*   ⚙️ **Results**:
+    
+    *   Reduced downtime and crash frequency by 80%
+        
+    *   Deployed CI/CD via **Jenkins + GitHub Actions**
+        
+    *   Enabled faster releases and empowered team autonomy
+        
+*   🧑🏽‍🤝‍🧑🏽 Mentored junior engineers and defined coding standards and service boundaries.
+    
 
-**Cloud & Infrastructure**  
-`AWS` `Google Cloud` `DigitalOcean`
+🔍 Past Roles & Impact
+----------------------
 
-**Other Skills**  
-`System Architecture` `Team Leadership` `API Integration` `Agile/Scrum` `Technical Mentorship`
+*   **Movia** (2021): Rebuilt the ad analytics dashboard to be **real-time and event-driven**, integrating with **WebSocket** and **Vuex**.
+    
+*   **Ladders Inc.** (2022): Improved frontend SEO responsiveness for a high-traffic job search platform using **React**.
+    
+*   **FECOLART** (2015–2018): Built and scaled a college admission platform using **Laravel + MySQL**, with results checking, onboarding, and registrations used by thousands.
+    
 
----
+🧰 Technology Stack
+-------------------
 
-## 🏆 Notable Achievements
+**Languages & Frameworks**JavaScript TypeScript Python Ruby PHP Node.js Next.js NestJS Ruby on Rails Laravel React Vue.js
 
-- 🔧 **Engineered the architecture for 3 products** currently in the market with real customer impact.
-- 💡 **Migrated Bloverse** from monolith to microservices, increasing deployment agility and team autonomy.
-- ⚙️ Built **real-time dashboards** for ad analytics and truck campaign monitoring at **Movia**.
-- 🌐 Boosted SEO performance and responsiveness at **Ladders Inc.**, improving user engagement.
-- 📦 Maintained and scaled **FECOLART**, a Laravel-based college admission and results system used by thousands.
-- 💳 Integrated with major APIs like **Google Maps**, **Flutterwave**, and **video generation tools** for dynamic platforms.
-- 📊 Designed and implemented **live user-facing dashboards**, custom permission systems, and data management tools.
+**Databases & ORMs**PostgreSQL MySQL MongoDBPrisma TypeORM Knex
 
----
+**DevOps & CI/CD**Docker Kubernetes GitHub Actions Jenkins Terraform
 
-## 📫 Get In Touch
+**Infrastructure & Cloud**AWS Google Cloud DigitalOcean
 
-I'm open to collaboration, freelance opportunities, or just a chat about software architecture and product engineering.
+**Other Skills**System Architecture Microservices API Integration Agile/Scrum Team Leadership Product Engineering Remote Collaboration
 
-- **Email**: daveholuborhee@gmail.com
-- **LinkedIn**: [https://www.linkedin.com/in/johnoluboridavid/](https://www.linkedin.com/in/johnoluboridavid/)
-- **GitHub**: [https://github.com/holuborhee](https://github.com/holuborhee)
-- **Portfolio Website**: [https://holuborhee.github.io/](https://holuborhee.github.io/)
-- **Twitter**: [@holuborhee](https://x.com/holuborhee)
+🏆 Notable Achievements
+-----------------------
 
----
+*   ✅ Led the **successful launch of 3 SaaS platforms** at Adventlabs, each solving real problems for local businesses.
+    
+*   🔄 Migrated **Bloverse** to microservices architecture, improving team velocity and infrastructure resilience.
+    
+*   🌍 6+ years of **remote work success**, thriving in distributed teams and asynchronous collaboration.
+    
+*   🔗 Integrated complex APIs like **Google Maps**, **Flutterwave**, and **custom video generation** workflows.
+    
+*   🎯 Designed complex features like **dynamic dashboards**, **permission systems**, and **multi-tenant user management**.
+    
 
-> “Code is more than syntax – it’s a craft, a product, and a promise to deliver value.”  
-> – John Olubori David
+💬 Engineering Philosophy
+-------------------------
 
+> “Show, don’t tell.” I believe that working software beats documentation alone.I build early, deliver often, and listen closely to users. Great products grow from constant feedback loops and an architecture that can adapt quickly.
+
+📫 Contact Me
+-------------
+
+Let's connect — whether you're looking for a collaborator, need technical leadership, or just want to talk system design.
+
+*   **📧 Email**:
+     * Personal:   daveholuborhee@gmail.com
+     * Official:   olubori@adventlabs.ng
+    
+*   **🔗 LinkedIn**: [johnoluboridavid](https://www.linkedin.com/in/johnoluboridavid/)
+    
+*   **💻 GitHub**: [holuborhee](https://github.com/holuborhee)
+    
+*   **🌍 Website**: [holuborhee.github.io](https://holuborhee.github.io)
+    
+*   **🐦 Twitter**: [@holuborhee](https://x.com/holuborhee)
+    
+
+> “Code is more than syntax – it’s a craft, a product, and a promise to deliver value.”– John Olubori David
