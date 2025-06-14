@@ -24,11 +24,11 @@ I’m a **JavaScript expert** and a product-first engineer, passionate about sol
 
 As the **Chief Architect & Technical Lead** at **Adventlabs**, I lead the development of three B2B and B2C products from idea to launch:
 
-*   **Buzthrive** – Inventory & sales management for local SMEs. I designed the core data models and backend using **NestJS + PostgreSQL**, with real-time updates and analytics.
+*   **[Buzthrive](https://buzthrive.com/)** – Inventory & sales management for local SMEs. I designed the core data models and backend using **NestJS + PostgreSQL**, with real-time updates and analytics.
     
-*   **SME Suites** – Lightweight business productivity tools (finance, HR, ops). Built the authentication, user onboarding, and subscription flow.
+*   **[SME Suites](https://www.smesuites.com/)** – Lightweight business productivity tools (finance, HR, ops). Built the authentication, user onboarding, and subscription flow.
     
-*   **Articean** – A platform connecting offline artisans to clients. Led the end-to-end architecture and integrated **Flutterwave for payments**.
+*   **[Articean](https://www.articean.com/)** – A platform connecting offline artisans to clients. Led the end-to-end architecture and integrated **Flutterwave for payments**.
     
 
 > I built these products with **customer empathy**, frequent iteration, and architecture that allows scale without bottlenecks.
